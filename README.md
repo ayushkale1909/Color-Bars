@@ -22,4 +22,7 @@ Users can modify the script to generate test videos in other resolutions and fra
 
 ## Sample Output 
 
+![Alt Text](sample_output.jpg)
+
+
 Note : This is an image of the expected video output. 
